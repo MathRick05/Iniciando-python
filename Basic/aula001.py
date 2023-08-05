@@ -1,3 +1,6 @@
+#Aqui fiz um sistema de calculadora, em que vc escolhe qual calculo deseja fazer
+# e depois insere os numeros, e no fim mostra o resultado.
+
 calc = input("Selecione o calculo que deseja:\
  1-Adição\
  2-Subtração\

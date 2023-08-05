@@ -1,3 +1,5 @@
+#Sistema para um joguinho de advinhe o numero, para o usuario advinhar.
+
 import random
 
 def guess (x, y) :

@@ -1,3 +1,5 @@
+#Sistema para joguinho de advinhar o numero em que o sistema tenta advinhar o numero.
+
 import random
 
 def computerGuess (x, y) :

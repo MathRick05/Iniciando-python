@@ -1,3 +1,4 @@
+#é um jogo de pedra papel tesoura
 import random
 
 user = input("Escolha (r)pedra, (p)papel, (t)tesoura ou (e)exit:")
@@ -6,7 +7,7 @@ computer = random.choice(["r", "p", "t"])
 def play(user, computer) :
 
     while user != "e" :
-        print(f"Você escolheu {user}! \
+        print(f"Você escolheu {user} \
             O computador escolheu {computer}!")
         if user == computer:
             print("Empate!")
